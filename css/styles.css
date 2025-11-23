@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5, h6, p {
     margin: 0;
 }
 
+img {
+    display: block;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -172,6 +176,7 @@ margin-right: 76px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    
 }
 .text-item {
     font-weight: 400;
@@ -179,6 +184,7 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    
     
 }
 /* #endregion-features */
