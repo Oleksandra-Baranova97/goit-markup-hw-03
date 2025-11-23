@@ -281,7 +281,15 @@ margin-right: 76px;
 }
 /* #endregion-portfolio */
 /* #region-footer */
-.region-footer {background: #2e2f42;}
+.region-footer {
+    background: #2e2f42;
+    padding: 100px 0;
+}
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
 .footer-logo .logo-part {
     color: #f4f4fd;
 }
@@ -291,5 +299,6 @@ margin-right: 76px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+    max-width: 264px;
 }
 /* #endregion-footer */
